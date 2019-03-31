@@ -39,5 +39,5 @@ cd CarND-Traffic-Sign-Classifier-Project
 `jupyter notebook Traffic_Sign_Classifier.ipynb`
 
 ## Report
-[Report](https://github.com/gradient100/Traffic-Sign-Classifier/blob/master/report.pdf)
+[Report](report.pdf)
 
