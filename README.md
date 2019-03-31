@@ -1,7 +1,7 @@
 #  Traffic Sign Classifier
 
 
-In this project, deep neural networks and convolutional neural networks to classify traffic signs is used to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
+In this project, deep neural networks and convolutional neural networks are used to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
 # Running the Traffic Sign Classifier in your local machine
 
