@@ -1,5 +1,8 @@
 #  Traffic Sign Classifier
 
+Vinh Nghiem
+
+Self-Driving Car Engineer Nanodegree Program
 
 In this project, deep neural networks and convolutional neural networks are used to classify traffic signs from the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset).
 
